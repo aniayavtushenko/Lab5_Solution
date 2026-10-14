@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Lab5_App/Lab5_App.vcxproj" />
+  <Project Path="RationalLib/RationalLib.vcxproj" />
+</Solution>
